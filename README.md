@@ -1,8 +1,8 @@
-# 👋 Hey there! I'm Vaibhav Singh
-
-![Profile Views](https://komarev.com/ghpvc/?username=singhvaibhav-ai&color=blue)
-
 <p align="center">
+  <a href="mailto:vaibhavsingh220406@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/vaibhav-singh-553a49318/">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" alt="LinkedIn" width="40" />
   </a>
@@ -22,14 +22,6 @@
   <a href="https://takeuforward.org/plus/profile/singh_vaibhav_07">
     <img src="https://takeuforward.org/static/media/TufDarkCircleLogo.876d63ea7e9c6b8336e9.png" alt="TakeUForward" width="40" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:vaibhavsingh220406@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" />
-  </a>
-</p>
-
-<p align="center">
-  <i>NIT Jamshedpur '28 • BS in Programming & Data Science (IIT Madras)</i>
 </p>
 
 ---
