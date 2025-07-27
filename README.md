@@ -89,11 +89,19 @@ I enjoy keeping up with the latest in tech and contributing to meaningful, impac
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=singhvaibhav-ai&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhvaibhav-ai&theme=react-dark&color=00ffff&line=ff2d75&point=ffffff&hide_border=true" alt="Vaibhav's GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <!-- Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=singhvaibhav-ai&show_icons=true&theme=radical&title_color=ff2d75&icon_color=00ffff&text_color=ffffff&bg_color=0d1117" alt="Vaibhav's GitHub Stats" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=singhvaibhav-ai&theme=radical" alt="GitHub Streak" />
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhvaibhav-ai&theme=radical&date_format=M%20j%5B%2C%20Y%5D&stroke=00ffff&ring=ff2d75&currStreakLabel=00ffff" alt="Vaibhav's GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhvaibhav-ai&layout=compact&theme=radical" alt="Top Languages" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhvaibhav-ai&layout=compact&theme=radical&bg_color=0d1117&title_color=ff2d75&text_color=ffffff" alt="Top Languages" />
 </p>
 
 ---
