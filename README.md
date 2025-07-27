@@ -30,9 +30,7 @@
   </a>
 </p>
 
-<p align="center">
-  <b><span style="font-size:18px">NIT Jamshedpur '28 • BS in Programming & Data Science (IIT Madras)</span></b>
-</p>
+<h3 align="center">NIT Jamshedpur '28 • BS in Programming & Data Science (IIT Madras)</h3>
 
 ---
 
