@@ -1,10 +1,8 @@
-# 👋 Hey there! I'm Vaibhav Singh
-
-<p align="right">
+# 👋 Hey there! I'm Vaibhav Singh <p align="right">
   <img src="https://komarev.com/ghpvc/?username=singhvaibhav-ai&color=blue" alt="Profile Views" />
 </p>
 
-## 🎓 NIT Jamshedpur '28 • BS in Programming & Data Science (IIT Madras)
+### <p align="center">NIT Jamshedpur '28 • BS in Programming & Data Science (IIT Madras)</p>
 
 <p align="center">
   <a href="mailto:vaibhavsingh220406@gmail.com">
