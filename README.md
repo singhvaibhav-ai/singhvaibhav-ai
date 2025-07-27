@@ -1,4 +1,6 @@
-# 👋 Hey there! I'm Vaibhav Singh <p align="right">
+# 👋 Hey there! I'm Vaibhav Singh
+
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=singhvaibhav-ai&color=blue" alt="Profile Views" />
 </p>
 
