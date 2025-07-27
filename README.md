@@ -106,10 +106,14 @@ I enjoy keeping up with the latest in tech and contributing to meaningful, impac
 <p align="center">
   <!-- Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=singhvaibhav-ai&show_icons=true&theme=radical&title_color=ff2d75&icon_color=00ffff&text_color=ffffff&bg_color=0d1117" alt="Vaibhav's GitHub Stats" />
-  <br />
+  
+  <br /><br />
+
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhvaibhav-ai&theme=radical&date_format=M%20j%5B%2C%20Y%5D&stroke=00ffff&ring=ff2d75&currStreakLabel=00ffff" alt="Vaibhav's GitHub Streak" />
-  <br />
+  
+  <br /><br />
+
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhvaibhav-ai&layout=compact&theme=radical&bg_color=0d1117&title_color=ff2d75&text_color=ffffff" alt="Top Languages" />
 </p>
