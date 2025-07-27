@@ -1,11 +1,13 @@
-# 👋 Hey there! I'm Vaibhav Singh &nbsp;&nbsp;&nbsp;&nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=singhvaibhav-ai&color=blue)
+# 👋 Hey there! I'm Vaibhav Singh
+
+![Profile Views](https://komarev.com/ghpvc/?username=singhvaibhav-ai&color=blue)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vaibhav-singh-553a49318/">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" alt="LinkedIn" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/singh_vaibhavv">
+  <a href="https://twitter.com/singh_vaibhavv">
     <img src="https://store-images.s-microsoft.com/image/apps.26737.9007199266244427.c75d2ced-a383-40dc-babd-1ad2ceb13c86.ed1d047e-03d9-4cd8-a342-c4ade1e58951" alt="Twitter" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -20,6 +22,14 @@
   <a href="https://takeuforward.org/plus/profile/singh_vaibhav_07">
     <img src="https://takeuforward.org/static/media/TufDarkCircleLogo.876d63ea7e9c6b8336e9.png" alt="TakeUForward" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:vaibhavsingh220406@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" />
+  </a>
+</p>
+
+<p align="center">
+  <i>NIT Jamshedpur '28 • BS in Programming & Data Science (IIT Madras)</i>
 </p>
 
 ---
