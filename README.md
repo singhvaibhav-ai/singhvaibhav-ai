@@ -4,6 +4,8 @@
   <img src="https://komarev.com/ghpvc/?username=singhvaibhav-ai&color=blue" alt="Profile Views" />
 </p>
 
+## 🎓 NIT Jamshedpur '28 • BS in Programming & Data Science (IIT Madras)
+
 <p align="center">
   <a href="mailto:vaibhavsingh220406@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" />
@@ -30,11 +32,9 @@
   </a>
 </p>
 
-<h3 align="center">NIT Jamshedpur '28 • BS in Programming & Data Science (IIT Madras)</h3>
-
 ---
 
-## 👨‍🎓 About Me
+## 👨‍💻 About Me
 
 I'm **Vaibhav Singh**, a first-year B.Tech Electrical Engineering student at **NIT Jamshedpur (2024–2028)**, also pursuing a **BS in Programming and Data Science** from **IIT Madras**.
 
