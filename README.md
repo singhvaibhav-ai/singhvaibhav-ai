@@ -41,7 +41,7 @@ Driven by curiosity and a passion for problem-solving, I love breaking down comp
 
 ### Web Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb" />
 </p>
 
 ### Tools
