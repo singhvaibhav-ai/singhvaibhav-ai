@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Vaibhav Singh
+# Hey there! I'm Vaibhav Singh
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=singhvaibhav-ai&color=blue" alt="Profile Views" />
@@ -34,7 +34,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm **Vaibhav Singh**, a first-year B.Tech Electrical Engineering student at **NIT Jamshedpur (2024–2028)**, also pursuing a **BS in Programming and Data Science** from **IIT Madras**.
 
@@ -42,7 +42,7 @@ Driven by curiosity and a passion for problem-solving, I love breaking down comp
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 <p align="center">
@@ -61,16 +61,16 @@ Driven by curiosity and a passion for problem-solving, I love breaking down comp
 
 ---
 
-## 📚 Learning Journey
+## Learning Journey
 
-- ✅ **Data Structures & Algorithms (Python)** – Completed  
-- ✅ **Machine Learning Foundations** – Web scraping, neural networks, and image processing  
-- ✅ **Web Development** – HTML, CSS, JavaScript (Udemy course)  
-- 🚀 **Currently Learning**: Mastering DSA in C++ via **[TUF+](https://takeuforward.org/plus/profile/singh_vaibhav_07)**
+- **Data Structures & Algorithms (Python)** – Completed  
+- **Machine Learning Foundations** – Web scraping, neural networks, and image processing  
+- **Web Development** – HTML, CSS, JavaScript (Udemy course)  
+- **Currently Learning**: Mastering DSA in C++ via **[TUF+](https://takeuforward.org/plus/profile/singh_vaibhav_07)**
 
 ---
 
-## 🚀 Interests & Passions
+## Interests & Passions
 
 - Data Structures & Algorithms  
 - Full Stack & Frontend Development  
@@ -80,7 +80,7 @@ Driven by curiosity and a passion for problem-solving, I love breaking down comp
 
 ---
 
-## 🌱 What Excites Me
+## What Excites Me
 
 The **intersection of code and creativity**—solving real-world problems, building scalable tools, and making research more accessible.
 
@@ -88,7 +88,7 @@ I enjoy keeping up with the latest in tech and contributing to meaningful, impac
 
 ---
 
-## 🎵 Beyond Code
+## Beyond Code
 
 - Music  
 - Reflective writing  
@@ -96,7 +96,7 @@ I enjoy keeping up with the latest in tech and contributing to meaningful, impac
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <!-- Contribution Graph -->
@@ -116,6 +116,6 @@ I enjoy keeping up with the latest in tech and contributing to meaningful, impac
 
 ---
 
-🤝 Let’s connect, collaborate, and create something impactful!
+Let’s connect, collaborate, and create something impactful!
 
 > *“Code is not just logic—it's an expression of thought, creativity, and endless possibilities.”*
